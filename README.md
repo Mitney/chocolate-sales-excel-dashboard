@@ -1,4 +1,4 @@
-# chocolate-sales-excel-dashboard
+![Dashboard Preview](dashboard-preview.png)# chocolate-sales-excel-dashboard
 Sales performance dashboard built in Excel using data cleaning, Pivot Tables and trend analysis.
 PROJECT OVERVIEW
 This project analyzes chocolate sales data using Microsoft Excel. The goal was to clean raw sales data and create an interactive dashboard to visualize revenue performance.
